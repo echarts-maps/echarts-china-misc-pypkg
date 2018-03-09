@@ -25,7 +25,7 @@ DESCRIPTION = (
     'Packages custom China regions as python package'
 )
 URL = 'https://github.com/chfw/echarts-china-misc-pypkg'
-DOWNLOAD_URL = '%s/archive/0.0.0.tar.gz' % URL
+DOWNLOAD_URL = '%s/archive/0.0.1.tar.gz' % URL
 FILES = ['README.rst', 'CHANGELOG.rst']
 KEYWORDS = [
     'python'
@@ -59,8 +59,8 @@ EXTRAS_REQUIRE = {
 # You do not need to read beyond this line
 PUBLISH_COMMAND = '{0} setup.py sdist upload -r pypi'.format(
     sys.executable)
-GS_COMMAND = ('gs echarts-china-misc-pypkg v0.0.0 ' +
-              "Find 0.0.0 in changelog for more details")
+GS_COMMAND = ('gs echarts-china-misc-pypkg v0.0.1 ' +
+              "Find 0.0.1 in changelog for more details")
 NO_GS_MESSAGE = ('Automatic github release is disabled. ' +
                  'Please install gease to enable it.')
 UPLOAD_FAILED_MSG = (

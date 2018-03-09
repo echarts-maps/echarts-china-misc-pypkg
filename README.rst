@@ -15,6 +15,15 @@ Installation
 ================================================================================
 
 
+You can install echarts-china-misc-pypkg via pip:
+
+.. code-block:: bash
+
+    $ pip install echarts-china-misc-pypkg
+
+
+or clone it and install it:
+
 .. code-block:: bash
 
     $ git clone https://github.com/chfw/echarts-china-misc-pypkg.git

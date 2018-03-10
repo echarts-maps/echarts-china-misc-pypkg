@@ -9,7 +9,7 @@ echarts-china-misc-pypkg
    :target: https://codecov.io/gh/pyecharts/echarts-china-misc-pypkg
 
 
-The project packages `echarts-china-misc-js <https://github.com/chfw/echarts-china-misc-js>`_ and distributes it via pypi.
+The project packages `echarts-china-misc-js <https://github.com/echarts-maps/echarts-china-misc-js>`_ and distributes it via pypi.
 
 Installation
 ================================================================================

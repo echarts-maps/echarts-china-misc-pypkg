@@ -24,7 +24,7 @@ LICENSE = 'MIT. Maps comes from Baidu Inc.'
 DESCRIPTION = (
     'Packages custom China regions as python package'
 )
-URL = 'https://github.com/chfw/echarts-china-misc-pypkg'
+URL = 'https://github.com/pyecharts/echarts-china-misc-pypkg'
 DOWNLOAD_URL = '%s/archive/0.0.1.tar.gz' % URL
 FILES = ['README.rst', 'CHANGELOG.rst']
 KEYWORDS = [
